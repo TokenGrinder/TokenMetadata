@@ -1,19 +1,19 @@
 {
-    "attributes": [
-        {
-            "trait_type": "Decimals",
-            "value": "18"
-        },
-        {
-            "trait_type": "Symbol",
-            "value": "TIKT"
-        },
-        {
-            "trait_type": "Chain",
-            "value": "Binance Smart Chain"
-        }
-    ],
-    "description": "Who made this?",
-    "image": "https://fv2-5.failiem.lv/thumb_show.php?i=nnqckzxa7m&view&v=1",
-    "name": "TikToken"
+  "attributes": [
+    {
+      "trait_type": "Decimals",
+      "value": "18"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "TIKT"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Binance Smart Chain"
+    }
+  ],
+  "description": "Who made this?",
+  "image": "https://raw.githubusercontent.com/TokenGrinder/TokenMetadata/main/_73ba5aed-a947-4bf4-9697-6a6bc80296a5.jpg",
+  "name": "TikToken"
 }
